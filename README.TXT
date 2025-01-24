@@ -1,7 +1,8 @@
 # Bot de Cadastro de Produtos no Sistema Grandchef
 
 ## Descrição
-Este projeto é um bot desenvolvido para cadastrar produtos no sistema Grandchef, filtrando e organizando dados de um arquivo CSV.
+Este projeto é um bot desenvolvido para cadastrar produtos no sistema Grandchef, filtrando e organizando dados de um arquivo CSV, 
+pois o cadastro de produtos PIZZAS e NÃO-PIZZAS é feito de forma diferente. 
 
 ## Instalação
 Para instalar as dependências necessárias, execute o seguinte comando:

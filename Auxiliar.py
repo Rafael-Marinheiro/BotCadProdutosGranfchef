@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 
+
 # Verificar se o arquivo existe
 if not os.path.exists('Tabela produtos.csv'):
     raise FileNotFoundError("O arquivo 'Tabela produtos.csv' não foi encontrado.")

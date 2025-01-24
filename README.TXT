@@ -16,6 +16,6 @@ pip install pyautogui pandas numpy
 
 ## Arquivos Principais
 - `codigo.py`: Lógica principal do bot.
-- `codigo_atualizado.py`: Versão atualizada do código com melhorias.
+- `beta_pizza.py`: Versão beta do código de cadastro de pizzas
 - `Auxiliar.py`: Funções auxiliares para manipulação de dados.
 - `pizzas_nova_tabela.csv`: Arquivo gerado com a nova tabela de pizzas.
